@@ -1,0 +1,4 @@
+[
+  { 'value': 'item1', 'label': 'Menu item 1', 'group': null, 'selected': false },
+  { 'value': 'item2', 'label': 'Menu item 2 ', 'group': null, 'selected': false }
+];
