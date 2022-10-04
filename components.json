@@ -1,7 +1,7 @@
 {"list": {
     "components": [
-    { 'value': 'accordion', 'label': 'Accordion', 'group': null, 'selected': false },
-    { 'value': 'button', 'label': 'Button', 'group': null, 'selected': false }
-    { 'value': 'card', 'label': 'Card', 'group': null, 'selected': false }
+    { "value": "accordion", "label": "Accordion", "group": null, 'selected': false },
+    { "value": "button", "label": "Button", "group": null, "selected": false }
+    { "value": "card", "label": "Card", "group": null, 'selected': false }
     ]
 }}
